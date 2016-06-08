@@ -28,6 +28,8 @@ Insbesondere ist diese Art der Verarbeitung interessant, da Echtzeitentscheidung
 
 Apache Flink wurde von mir in der Hortonworks Sandbox installiert.
 
+Der Screenshot ist im Git-Repo zu finden.
+
 Meine Toolchain, die ich in Verbindung mt Apache Flink nutzen würde:
 *) Apache Flink auf einem Linux Betriebssystem (für mich aus lizenztechnischen Gründen)
 *) Apache Flink würde auf ein Hadoop System mit HDFS zugreifen um auch eine nötige Ausfallsicherheit und Skalierbarkeit zu gewährleisten.
@@ -69,6 +71,8 @@ Ich habe mich für Python entschieden, da mich die Sprache generell schon immer 
 ich aber noch keine Zeit hatte, mich damit zu beschäftigen. Außerdem hat Python (laut diversen Berichten) eine steilere
 Lernkurve als R und ist schneller einsatzbereit.
 Als IDE setze ich PyCharm von JetBrains ein. Natürlich habe ich Python 3.5.1 heruntergeladen und installiert.
+
+Der Screenshot ist im Git-Repo zu finden.
 
 ### Assignment 3: Big Science
 *Der Cheatsheet auf http://scikit-learn.org/stable/tutorial/machine_learning_map/ ist eine einfache Anleitung, wie man den richtigen Algorithmus zum richtigen Data Science Problem findet.Schauen Sie in Google nach und lernen Sie classificatiom, regression, clusting und dimensional 
